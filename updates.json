@@ -1,1 +1,261 @@
-{}
+{
+    "youtube": {
+        "app_version": "20.12.46",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750162748928,
+        "date_patched": "2025-06-17 12:19:08.927911+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "20.12.46",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 56,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8859989&key=5a7f54d009b5ed98e5e3791c68cc095358501282&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "youtube_music": {
+        "app_version": "8.05.51",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750162374913,
+        "date_patched": "2025-06-17 12:12:54.913175+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "8.05.51",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8372612&key=9d62cf06016e02dca0990ff60993ab479b176b53&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "reddit": {
+        "app_version": "2024.17.0",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750162698838,
+        "date_patched": "2025-06-17 12:18:18.838272+05:30",
+        "app_dump": {
+            "app_name": "reddit",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "reddit.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=7229c4fffeb8630be1be984e10c4b98e60c117a2&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "backdrops": {
+        "app_version": "5.2..240",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750182875232,
+        "date_patched": "2025-06-17 17:54:35.231899+05:30",
+        "app_dump": {
+            "app_name": "backdrops",
+            "app_version": "5.2..240",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "backdrops.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9157130&key=34c0048200f9eeb05c19729a54a831d38b2046b7",
+            "download_source": "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/",
+            "package_name": "com.backdrops.wallpapers",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "duolingo": {
+        "app_version": "5.158.4",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750182892289,
+        "date_patched": "2025-06-17 17:54:52.289135+05:30",
+        "app_dump": {
+            "app_name": "duolingo",
+            "app_version": "5.158.4",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "duolingo.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6610874&key=f0a0431611614692a547328a3c39616f0ffd054a&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/",
+            "package_name": "com.duolingo",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "proton-mail": {
+        "app_version": "4.9.1..11362",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750182914091,
+        "date_patched": "2025-06-17 17:55:14.090861+05:30",
+        "app_dump": {
+            "app_name": "proton-mail",
+            "app_version": "4.9.1..11362",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "proton-mail.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8961724&key=189b69ec1cbbd6f2466f16a1f7950aca5c4e1f77",
+            "download_source": "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/",
+            "package_name": "ch.protonmail.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "ticktick": {
+        "app_version": "7.6.3.0..7630",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1750182951628,
+        "date_patched": "2025-06-17 17:55:51.627864+05:30",
+        "app_dump": {
+            "app_name": "ticktick",
+            "app_version": "7.6.3.0..7630",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "ticktick.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9689461&key=955f60f4a314286482d8bf3557901e19294efd70",
+            "download_source": "https://www.apkmirror.com/apk/appest-inc/ticktick-to-do-list-with-reminder-day-planner/",
+            "package_name": "com.ticktick.task",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
